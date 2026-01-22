@@ -21,4 +21,4 @@ npm install (Para instalar depedencias, no se suben a github - node_modules)
 npm run dev
 ```
 
-Con esto, nos levantara un servidor localhost que normalmente suele ser: **http://localhost:5173/**# clone_cards
+Con esto, nos levantara un servidor localhost que normalmente suele ser: **http://localhost:5173/**
